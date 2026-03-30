@@ -40,5 +40,5 @@
 
 ## Starter Projects
 
-- Receive and decode satellite data using an SDR to learn satellite functionality and security. Satellite security is crucial to prevent unauthorized control of satellites. An example of this is the 2007-2008 interference incidents involving the Landsat-7 and Terra AM-1 Earth-observation satellites, where attackers intruded the ground station in Norway controlling the satellites. <br>
+- Receive and decode satellite data using an SDR to learn satellite functionality and security. Satellite security is crucial to prevent unauthorized control of satellites. An example of this is the 2007-2008 interference incidents involving the Landsat-7 and Terra AM-1 Earth-observation satellites, where attackers intruded the ground station in Norway controlling the satellites. <br> <br>
 - Build an ADS-B aircraft tracker to get the hang of reception, demodulation, and analysis. This is a great project to study RF and how signals are modulated.
