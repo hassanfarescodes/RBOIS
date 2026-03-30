@@ -13,10 +13,11 @@
 
 ## Tools
 
-- GNU Radio
-- SDR++
-- GQRX
-- HackRF / RTL-SDR
+- [GNU Radio](https://www.gnuradio.org/)
+- [SDR++](https://www.sdrpp.org/)
+- [GQRX](https://gqrx.dk/)
+- [HackRF](https://greatscottgadgets.com/hackrf/)
+- [RTL-SDR](https://www.rtl-sdr.com/)
 
 ## Writeups / Case Studies
 
