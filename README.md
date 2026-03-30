@@ -22,9 +22,9 @@
 ## Writeups / Case Studies
 
 - Possible spy communication over RF: [Mysterious Radio Station](https://www.mirror.co.uk/news/uk-news/iran-launches-mystery-radio-station-36849735) <br> <br>
-  ![Spy Communication on RF](spycoms.png)
+  <img src="spycoms.png" alt="Spy Communication on RF" width="300">
 - EC-121 shootdown (1969): U.S. Navy EC-121 on a SIGINT mission was shot down by North Korea, unfortunately killing all 31 aboard [CTI_John_H_Potts_USN.pdf](https://www.nsa.gov/Portals/75/1960/CTI_John_H_Potts_USN.pdf) <br> <br>
-  ![EC-121](ec121.png)
+  <img src="ec121.png" alt="EC-121" width="300">
 
 ## Events / Conferences
 
