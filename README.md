@@ -25,7 +25,7 @@
 
 ## Events / Conferences
 
-- DEF CON RF Village: Talks about RF in the cyberspace [https://www.youtube.com/playlist?list=PLd8C1LGNy4UGaWU5KeEFoqPzKs6y1UvNW](https://www.youtube.com/playlist?list=PLd8C1LGNy4UGaWU5KeEFoqPzKs6y1UvNW)
+- DEF CON RF Village: Talks about RF in the cyberspace [DEF CON RF Village](https://www.youtube.com/playlist?list=PLd8C1LGNy4UGaWU5KeEFoqPzKs6y1UvNW)
 - [GRCon](https://events.gnuradio.org/)
 
 ## Rabbit Holes
