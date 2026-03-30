@@ -23,6 +23,7 @@
 
 - Possible spy communication over RF: [Mysterious Radio Station](https://www.mirror.co.uk/news/uk-news/iran-launches-mystery-radio-station-36849735)
 - EC-121 shootdown (1969): U.S. Navy EC-121 on a SIGINT mission was shot down by North Korea, unfortunately killing all 31 aboard [CTI_John_H_Potts_USN.pdf](https://www.nsa.gov/Portals/75/1960/CTI_John_H_Potts_USN.pdf)
+  ![EC-121](ec121.png)
 
 ## Events / Conferences
 
