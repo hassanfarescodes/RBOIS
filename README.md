@@ -2,9 +2,9 @@
 
 ## Communities
 
-- GNU Radio community and GRCon
-- RTL-SDR community
-- Amateur radio groups / ARRL
+- [GNU Radio Community](https://www.gnuradio.org/)
+- [RTL-SDR Community](https://www.rtl-sdr.com/)
+- [Amateur radio groups / ARRL](https://www.arrl.org/)
 
 ## Researchers
 
@@ -21,10 +21,12 @@
 ## Writeups / Case Studies
 
 - Possible spy communication over RF: [https://www.mirror.co.uk/news/uk-news/iran-launches-mystery-radio-station-36849735](https://www.mirror.co.uk/news/uk-news/iran-launches-mystery-radio-station-36849735)
+- EC-121 shootdown (1969): U.S. Navy EC-121 on a SIGINT mission was shot down by North Korea, unfortunately killing all 31 aboard [https://www.nsa.gov/Portals/75/1960/CTI_John_H_Potts_USN.pdf](https://www.nsa.gov/Portals/75/1960/CTI_John_H_Potts_USN.pdf)
 
 ## Events / Conferences
 
 - DEF CON RF Village: Talks about RF in the cyberspace [https://www.youtube.com/playlist?list=PLd8C1LGNy4UGaWU5KeEFoqPzKs6y1UvNW](https://www.youtube.com/playlist?list=PLd8C1LGNy4UGaWU5KeEFoqPzKs6y1UvNW)
+- [GNU Radio Community] [GRCon](https://events.gnuradio.org/)
 
 ## Rabbit Holes
 
